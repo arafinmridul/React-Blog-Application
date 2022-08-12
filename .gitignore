@@ -1,7 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+node_modules
+App2.js
+Home2.js
+Home3.js
+BlogList2.js
 /.pnp
 .pnp.js
 
@@ -10,6 +14,8 @@
 
 # production
 /build
+
+notes.txt
 
 # misc
 .DS_Store
